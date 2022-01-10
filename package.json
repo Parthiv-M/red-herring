@@ -1,0 +1,28 @@
+{
+  "name": "red-herring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parthiv-M/red-herring.git"
+  },
+  "author": "Parthiv Menon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "hbs": "^4.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Parthiv-M/red-herring/issues"
+  },
+  "homepage": "https://github.com/Parthiv-M/red-herring#readme",
+  "description": ""
+}
