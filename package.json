@@ -18,7 +18,7 @@
     "body-parser": "^1.19.1",
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
-    "hbs": "^4.2.0"
+    "mongoose": "^6.1.7"
   },
   "bugs": {
     "url": "https://github.com/Parthiv-M/red-herring/issues"
