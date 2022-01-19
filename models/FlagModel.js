@@ -6,6 +6,11 @@ const Flag = new Schema({
     flag: {
         type: String,
         required: true
+    },
+    isHashed: {
+        type: Boolean,
+        reqiured: true,
+        default: false
     }
 });
 
